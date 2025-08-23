@@ -1,8 +1,8 @@
 const CACHE_NAME = 'solar-app-cache-v1';
 const urlsToCache = [
   './index.html',
-  './style.css',
-  './script.js'
+  './style.min.css',
+  './script.min.js'
 ];
 
 // 🔹 Instalação e cache dos arquivos
@@ -15,10 +15,10 @@ self.addEventListener('install', event => {
 // 🔹 Ativação (opcional, usado para limpar caches antigos)
 self.addEventListener('activate', event => {
   event.waitUntil(
-    caches.keys().then(keys => 
+    caches.keys().then(keys =>
       Promise.all(
         keys.filter(key => key !== CACHE_NAME)
-            .map(key => caches.delete(key))
+          .map(key => caches.delete(key))
       )
     )
   );
