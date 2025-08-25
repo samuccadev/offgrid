@@ -1,5 +1,5 @@
 // Mude a versão para forçar atualização
-const CACHE_NAME = 'solar-app-cache-v4';
+const CACHE_NAME = 'solar-app-cache-v5';
 
 const urlsToCache = [
   '/',
@@ -7,8 +7,8 @@ const urlsToCache = [
   '/style.min.css',
   '/script.min.js',
   '/manifest.json',
-  '/assets/energia-solar-192x192.png',
-  '/assets/energia-solar-512x512.png',
+  '/energia192.png',
+  '/energia512.png',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js',
