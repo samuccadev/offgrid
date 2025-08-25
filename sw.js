@@ -1,4 +1,5 @@
-const CACHE_NAME = 'solar-app-cache-v2'; // Mude a versão para forçar atualização
+// Mude a versão para forçar atualização
+const CACHE_NAME = 'solar-app-cache-v3';
 
 const urlsToCache = [
   '/',

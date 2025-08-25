@@ -9,32 +9,20 @@
   "theme_color": "#0d6efd",
   "orientation": "portrait",
   "lang": "pt-BR",
-  "categories": ["utilities", "productivity"],
+  "prefer_related_applications": false,
+  "categories": ["business", "productivity", "utilities"],
   "icons": [
     {
       "src": "/assets/energia-solar-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any maskable"
     },
     {
       "src": "/assets/energia-solar-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAQAElEQVR4AeydB5wcxdH2q3t2704RkFAgR0lkkySibRxxTq+NMzbB5k5kDBjbBGFjk0w00p2IfvHnhP06ZxuDMVESOSiRoxAIkISk0+1O11e9WgmFCxsm9PQ89+u+3Z3p7qr6d6rtnpnVhD8QAIFMEwg7NacRMw0NyoMACBAcADQCEAABEAABEMgdAYIDkMM6h8kgAAIgAAIgAAcAbQAEQAAEQAAE8kbA2ostAEsBEQRAAARAAARyRgAOQM4qHOaCAAiAAAjkncAq++EArOKA/yAAAiAAAiCQKwJwAHJV3TAWBEAABEAg7wRW2w8HYDUJvIIACIAACIBAjgjAAchRZcNUEAABEACBvBN4y344AG+xwDsQAAEQAAEQyA0BOAC5qWoYCgIgAAIgkHcCa9sPB2BtGngPAiAAAiAAAjkhAAcgJxUNM0EABEAABPJOYF374QCsywOfQAAEQAAEQCAXBOAA5KKaYSQIgAAIgEDeCaxvPxyA9YngMwiAAAiAAAjkgAAcgBxUMkwEARAAARDIO4EN7YcDsCETHAEBEAABEAAB7wnAAfC+imEgCIAACIBA3gn0Zj8cgN6o4BgIgAAIgAAIeE4ADoDnFQzzQAAEQAAE8k6gd/vhAPTOBUdBAARAAARAwGsCcAC8rl4YBwIgAAIgkHcCfdkPB6AvMjgOAiAAAiAAAh4TgAPgceXCNBAAARAAgbwT6Nt+OAB9s8EZEAABEAABEPCWABwAb6sWhoEACIAACOSdQH/2wwHojw7OgQAIgAAIgICnBOAAeFqxMAsEQAAEQCDvBPq3Hw5A/3xwFgRAAARAAAS8JAAHwMtqhVEgAAIgAAJ5JzCQ/XAABiKE8yAAAiAAAiDgIQE4AB5WKkwCARAAARDIO4GB7YcDMDAjpAABEAABEAAB7wjAAfCuSmEQCIAAC",
-      "sizes": "320x640",
       "type": "image/png",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAQAElEQVR4AeydB5wcxdH2q3t2704RkFAgR0lkkySibRxxTq+NMzbB5k5kDBjbBGFjk0w00p2IfvHnhP06ZxuDMVESOSiRoxAIkISk0+1O11e9WgmFCxsm9PQ89+u+3Z3p7qr6d6rtnpnVhD8QAIFMEwg7NacRMw0NyoMACBAcADQCEAABEAABEMgdAYIDkMM6h8kgAAIgAAIgAAcAbQAEQAAEQAAE8kbA2ostAEsBEQRAAARAAARyRgAOQM4qHOaCAAiAAAjkncAq++EArOKA/yAAAiAAAiCQKwJwAHJV3TAWBEAABEAg7wRW2w8HYDUJvIIACIAACIBAjgjAAchRZcNUEAABEACBvBN4y344AG+xwDsQAAEQAAEQyA0BOAC5qWoYCgIgAAIgkHcCa9sPB2BtGngPAiAAAiAAAjkhAAcgJxUNM0EABEAABPJOYF374QCsywOfQAAEQAAEQCAXBOAA5KKaYSQIgAAIgEDeCaxvPxyA9YngMwiAAAiAAAjkgAAcgBxUMkwEARAAARDIO4EN7YcDsCETHAEBEAABEAAB7wnAAfC+imEgCIAACIBA3gn0Zj8cgN6o4BgIgAAIgAAIeE4ADoDnFQzzQAAEQAAE8k6gd/vhAPTOBUdBAARAAARAwGsCcAC8rl4YBwIgAAIgkHcCfdkPB6AvMjgOAiAAAiAAAh4TgAPgceXCNBAAARAAgbwT6Nt+OAB9s8EZEAABEAABEPCWABwAb6sWhoEACIAACOSdQH/2wwHojw7OgQAIgAAIgICnBOAAeFqxMAsEQAAEQCDvBPq3Hw5A/3xwFgRAAARAAAS8JAAHwMtqhVEgAAIgAAJ5JzCQ/XAABiKE8yAAAiAAAiDgIQE4AB5WKkwCARAAARDIO4GB7YcDMDAjpAABEAABEAAB7wjAAfCuSmEQCIAAC",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide"
+      "purpose": "any maskable"
     }
   ]
 }
